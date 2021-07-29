@@ -39,5 +39,13 @@ p {
 ul {
     color:goldenrod;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 1.5em;
     text-decoration: none;
+}
+
+a {
+    color: goldenrod;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 1.5em;
+    text-decoration: underline;
 }
