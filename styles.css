@@ -45,7 +45,6 @@ a {
   color: goldenrod;
   font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
   font-size: 1.5em;
-  text-align: center;
   list-style-type: none;
   text-decoration: none;
 }
@@ -55,4 +54,8 @@ a {
   font-size: 1em;
   font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
   text-decoration: underline;
+}
+
+.project-columns {
+    text-align: center;
 }
