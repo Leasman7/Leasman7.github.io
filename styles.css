@@ -67,4 +67,6 @@ a {
 
 .video {
   margin-top: 50px;
+  height: 100%;
+  width: 100%;
 }
